@@ -11,5 +11,5 @@ In the repository you can find two jupyter notebooks (one for each approach), th
 
 ## Results
 The best result obtained is (pearson correlation between the gold-standard similarity values and the ones from our system): **82.46%**.
-This results overpasses the result obtained by the winner of the SemEval 2012 competition.
+This result overpasses the result obtained by the winner of the SemEval 2012 competition.
 
