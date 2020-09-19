@@ -16,11 +16,7 @@ In the repository you can find the following files and folders:
 
 - train/test-gold: datasets of the STS competition provided in the subject and used for training and testing.
 
-- InferSent: folder with the InferSent library.
-
-- fastText: dataset with word vector embeddings used by InferSent.
-
-- encoder: folder with the pre-trained model of InferSent.
+**Important**: In order to run the InferSent approach, it is needed the InferSent library, the fastText word embeddings dataset and a pre-trained model of InferSent.
 
 ## Results
 The best result obtained is (pearson correlation between the gold-standard similarity values and the ones from our system): **82.46%**.
